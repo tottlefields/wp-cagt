@@ -1,2 +1,2 @@
 # wp-cagt
-Code for the CAGT wwebsite
+Code for the CAGT website
